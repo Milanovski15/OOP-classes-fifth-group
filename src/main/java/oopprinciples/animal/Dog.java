@@ -3,6 +3,7 @@ package oopprinciples.animal;
 public class Dog extends Animal{
 
     boolean isTrained;
+    boolean newVar;
 
     public Dog(int age, String color, String name, String type, boolean isTrained){
         super(age, color, name, type);
