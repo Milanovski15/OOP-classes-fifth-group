@@ -62,4 +62,9 @@ public class AnimalTests {
         assertEquals("The dog Peki is eating", dog2.eat());
 
     }
+
+    @Test
+    public void newTestCase(){
+
+    }
 }
