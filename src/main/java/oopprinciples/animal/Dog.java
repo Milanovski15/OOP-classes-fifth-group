@@ -6,6 +6,7 @@ public class Dog extends Animal{
     boolean newVar;
     boolean newVar1;
     boolean newVar2;
+    boolean newVar3;
 
     public Dog(int age, String color, String name, String type, boolean isTrained){
         super(age, color, name, type);
