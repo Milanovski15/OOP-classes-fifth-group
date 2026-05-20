@@ -54,9 +54,6 @@ public class AnimalTests {
         dog2.setType("Chiwawa");
         dog2.setIsTrained(false);
 
-
-
-
         assertEquals(5, dog2.getAge());
         assertEquals("brown", dog2.getColor());
         assertEquals("Peki", dog2.getName());
